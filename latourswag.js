@@ -1,4 +1,3 @@
-var restclient = require('node-restclient');
 var Twit = require('twit');
 var ent = require('ent');
 
